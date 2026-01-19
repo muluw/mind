@@ -1,0 +1,15 @@
+{
+  "schema": "domains.v1",
+  "version": 1,
+  "network": "minima",
+
+  "prefix": "t",
+  "segment": 1,
+  "is_last": true,
+  "next_segment": 2,
+
+  "count": 1,
+  "generated_at": 1768821273,
+
+  "domains": ["to"]
+}
